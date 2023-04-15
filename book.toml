@@ -1,0 +1,12 @@
+[book]
+authors = ["CnTransGroup"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "Static Single Assignment Book"
+
+[output.html]
+mathjax-support = true
+no-section-label = true
+git-repository-url = "https://github.com/CnTransGroup/StaticSingleAssignmentBookChinese"
+git-repository-icon = "fa-github"
